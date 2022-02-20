@@ -1,0 +1,7 @@
+Documento
+
+python manage.py makemigrations // migrar base de datos
+python manage.py migrate // realizar la migracion
+
+.\env\Scripts\activate  // activar el env 
+python manage.py runserver // correr el server
