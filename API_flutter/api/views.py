@@ -92,3 +92,6 @@ class orderView (View):
         pass
     def delete (self, request):
         pass
+
+class methods:
+    functio
